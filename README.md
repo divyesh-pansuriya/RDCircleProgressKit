@@ -14,14 +14,12 @@ This library is implemented as a single Swift file, making integration into your
 
 <table>
   <tr>
-    <td><img src="Images/Screenshot - 1.png" width=270></td>
-    <td><img src="Images/Screenshot - 2.png" width=270></td>
-    <td><img src="Images/Screenshot - 3.png" width=270></td>
-  </tr>
-  <tr>
-    <td><img src="Images/Screenshot - 4.png" width=270></td>
-    <td><img src="Images/Screenshot - 5.png" width=270></td>
-    <td><img src="Images/Screenshot - 6.png" width=270></td>
+    <td><img src="Images/Screenshot - 1.png" width=250></td>
+    <td><img src="Images/Screenshot - 2.png" width=250></td>
+<!--   </tr>
+  <tr> -->
+    <td><img src="Images/Screenshot - 3.png" width=250></td>
+    <td><img src="Images/Screenshot - 4.png" width=250></td>
   </tr>
 </table>
 
